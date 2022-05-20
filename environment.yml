@@ -1,0 +1,4 @@
+name: ml_1
+channels:
+  - defaults
+prefix: /home/raphael.bouvet@Digital-Grenoble.local/anaconda3/envs/ml_1
