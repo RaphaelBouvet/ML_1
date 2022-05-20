@@ -118,4 +118,6 @@ dependencies:
   - zeromq=4.3.4=h2531618_0
   - zlib=1.2.12=h7f8727e_2
   - zstd=1.4.9=haebb681_0
+  - pip:
+    - missingno==0.5.1
 prefix: /home/raphael.bouvet@Digital-Grenoble.local/anaconda3/envs/ml_1
